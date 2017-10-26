@@ -1,2 +1,2 @@
 # HC-Matching-Game
-A game to match Haverford student's names to their faces.
+A game to match Haverford students' names to their faces.
