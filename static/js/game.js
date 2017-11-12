@@ -2,5 +2,5 @@
 document.getElementById("demo").onclick = function() {myFunction()};
 
 function myFunction() {
-    document.getElementById("demo").innerHTML = "You are Correct!";
+    document.getElementById("tester").innerHTML = "You are Correct!";
 }
